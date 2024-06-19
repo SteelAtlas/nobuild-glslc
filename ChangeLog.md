@@ -1,5 +1,12 @@
 [semver](https://semver.org/) is implied.
 
+
+Wed Jun 19 06:41:52 PM IST 2024
+forked from rexim [alexy kutepov] to manage automate the builds
+of glslc for my shaders.
+diverging from the main idea of tsoding i plan to use only to build my shaders and not deal with bash and later also integrate it 
+directly in my game engine
+
 # 0.3.0-dev
 
 *Not Released Yet*
